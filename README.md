@@ -143,5 +143,49 @@ git commit -m "your message"
 git push to GitHub
 
 No need to open Git Bash or type anything manually.
+
+
+
+
+## 🚀 Clone & Use This Template Anywhere
+
+### ✅ Clone the Repository
+
+```bash
+git clone https://github.com/sheikh2583/javafx-maven-template.git
+```
+
+---
+
+### ✅ Open in Eclipse
+
+1. Launch **Eclipse**
+2. Go to `File` → `Import`
+3. Choose `Maven > Existing Maven Projects`
+4. Select the **cloned folder**
+5. Click **Finish** – Eclipse will detect `pom.xml` automatically
+
+---
+
+### ✅ Run the JavaFX App
+
+* Use the Maven goal `javafx:run`
+* Or right-click `App.java` → `Run As` → `Java Application`
+
+---
+
+### ✅ Push Updates (Optional)
+
+Use the included `update-template.bat` script
+or run these commands manually:
+
+```bash
+git add .
+git commit -m "Update something"
+git push
+```
+
+---
+
 > 🧠 Maintained by [sheikh2583](https://github.com/sheikh2583)  
 > Built to help you build faster with JavaFX 🚀
