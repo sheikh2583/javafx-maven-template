@@ -126,5 +126,22 @@ javafx-maven-template/
 
 ---
 
+🧰 Template Auto-Update Script
+This template includes a helper script to simplify pushing updates to GitHub.
+
+🚀 How to Use
+Double-click update-template.bat
+
+Enter a short commit message
+
+Press Enter — it will:
+
+git add .
+
+git commit -m "your message"
+
+git push to GitHub
+
+No need to open Git Bash or type anything manually.
 > 🧠 Maintained by [sheikh2583](https://github.com/sheikh2583)  
 > Built to help you build faster with JavaFX 🚀
