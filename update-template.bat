@@ -14,6 +14,10 @@ echo Committing...
 git commit -m "%msg%"
 
 echo.
+echo Pulling latest from origin...
+git pull --rebase origin main
+
+echo.
 echo Pushing to GitHub...
 git push
 
