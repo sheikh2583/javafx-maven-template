@@ -189,3 +189,4 @@ git push
 
 > 🧠 Maintained by [sheikh2583](https://github.com/sheikh2583)  
 > Built to help you build faster with JavaFX 🚀
+Jehad Dhalle
